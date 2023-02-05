@@ -15,9 +15,9 @@
 
 <h2>Work Experience</h2>
 
-| First Header  | Second Header |
+| Role          | Company       |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Software Engineer  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 

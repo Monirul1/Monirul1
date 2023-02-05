@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monirul</h1>
-<h2 align="center">I'm a Backend Software Engineer at Coinbase with a passion for designing large scale systems. Currently balancing my professional career with graduate studies at Columbia University, pursuing Master of Science in Computer Science. In my free time, I indulge my creative side with photography, capturing the beauty of the world one frame at a time.</h2>
+<h4 align="center">I'm a Backend Software Engineer at Coinbase with a passion for designing large scale systems. Currently balancing my professional career with graduate studies at Columbia University, pursuing Master of Science in Computer Science. In my free time, I indulge my creative side with photography, capturing the beauty of the world one frame at a time.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monirul1&label=Profile%20views&color=0e75b6&style=flat" alt="monirul1" /> </p>
 

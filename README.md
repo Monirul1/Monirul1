@@ -15,10 +15,18 @@
 
 <h2>Work Experience</h2>
 
-| Role          | Company       |
-| ------------- | ------------- |
-| Software Engineer  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Role          |  Company       |  Employment Time
+| ------------- | ------------- | Jan 2022-Present
+| Software Engineer (Backend) | Coinbase  | 
+| Software Developer (Full-Stack)  | Internation Business Machines (IBM)  | July 2020-December 2021 
+| Software Developer Intern | Internation Business Machines (IBM)  | September 2019-July 2020 
+| Software Engineer Intern | ViacomCBS | June 2019-August 2019 
+| Software Developer Intern | Fordham University | May 2018-June 2019 
+| Computer Science Research Assistant | Fordham University | May 2017-May 2020 
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>

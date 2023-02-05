@@ -16,8 +16,8 @@
 <h2>Work Experience</h2>
 
 | Role          |  Company       |  Employment Time
-| ------------- | ------------- | Jan 2022-Present
-| Software Engineer (Backend) | Coinbase  | 
+| ------------- | -------------  | -------------
+| Software Engineer (Backend) | Coinbase  | Jan 2022-Present
 | Software Developer (Full-Stack)  | Internation Business Machines (IBM)  | July 2020-December 2021 
 | Software Developer Intern | Internation Business Machines (IBM)  | September 2019-July 2020 
 | Software Engineer Intern | ViacomCBS | June 2019-August 2019 
